@@ -49,6 +49,10 @@ permalink: /wallet/
     </div>
   </div>
 </div>
+<h2 class="mt-16 mb-8">Privacy Policy</h2>
+    <div class="pt-8 mb-8">
+      This content looks like...
+    </div>
 
 <style>
   .page-content a {
